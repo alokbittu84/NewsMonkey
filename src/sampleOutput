@@ -1,0 +1,240 @@
+{
+  "status": "ok",
+  "totalResults": 18,
+  "articles": [
+    {
+      "source": {
+        "id": "les-echos",
+        "name": "Les Echos"
+      },
+      "author": "Leïla de Comarmond",
+      "title": "Les syndicats mobilisent encore contre la retraite à 64 ans mais pensent à la suite",
+      "description": "A la veille de la nouvelle mobilisation intersyndicale contre la réforme des retraites, les leaders syndicaux participent à une réunion avec leurs homologues patronaux pour définir un nouvel agenda de discussions.",
+      "url": "https://www.lesechos.fr/economie-france/social/les-syndicats-mobilisent-encore-contre-la-retraite-a-64-ans-mais-pensent-a-la-suite-1948953",
+      "urlToImage": "https://media.lesechos.com/api/v1/images/view/647d79ee8fb785150a1c7c47/1280x720/090356972344-web-tete.jpg",
+      "publishedAt": "2023-06-05T06:00:29Z",
+      "content": "Lundi, visioconférence avec le patronat pour les cinq confédérations, mardi, manifestation pour tous. Tandis que le gouvernement s'apprête à lancer la création de France travail , avec l'adoption de … [+3788 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Summer Concepcion, Vaughn Hillyard",
+      "title": "GOP candidates criticize Trump for praising Kim Jong Un",
+      "description": "Several Republican presidential candidates took aim at former President Donald Trump for praising North Korean leader Kim Jong Un.",
+      "url": "https://www.nbcnews.com/politics/2024-election/gop-candidates-criticize-trump-praising-kim-jong-un-rcna87642",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230604-donald-trump-kim-jong-un-jm-1336-7f8e83.jpg",
+      "publishedAt": "2023-06-04T19:05:31Z",
+      "content": "Several Republican presidential candidates took aim at former President Donald Trump for praising North Korean leader Kim Jong Un after the hermit kingdom was elected to the executive board of the Wo… [+3554 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Poland protest: Hundreds of thousands demand change in Warsaw",
+      "description": "Politicians including main opposition leader Donald Tusk led crowds calling for a change of direction.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65803318",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FB35/production/_129990346_95a8b2d42d3fb690073c5331ab48b4379f1985db0_0_3288_21921000x667.jpg",
+      "publishedAt": "2023-06-04T16:22:21.1202315Z",
+      "content": "Hundreds of thousands of protesters have gathered in Warsaw for one of Poland's largest demonstrators since the fall of communism in 1989.\r\nMost opposition parties have called on supporters to join t… [+2563 chars]"
+    },
+    {
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "author": "AP",
+      "title": "Jailed Kremlin Critic Navalny Pokes Fun At Prison Officials With Demands Of Moonshine And A Kangaroo",
+      "description": "Imprisoned Russian opposition leader Alexei Navalny has released excerpts of his correspondence with prison administrators, detailing sarcastic demands.",
+      "url": "https://www.huffpost.com/entry/russia-navalny-letters_n_647a877de4b02325c5e0db5f",
+      "urlToImage": "https://img.huffingtonpost.com/asset/647a877e2000002f0075494a.jpeg?cache=HzerD8cQO8&ops=1200_630",
+      "publishedAt": "2023-06-03T00:25:14Z",
+      "content": "MOSCOW (AP) Imprisoned Russian opposition leader Alexei Navalny released excerpts of his correspondence with prison administrators Friday, detailing his sarcastic demands for things like a bottle of … [+2121 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": "Zachary D. Rymer",
+      "title": "Yankees' Aaron Judge vs. Mets' Pete Alonso: Who Will Be MLB's 2023 Home Run Leader?",
+      "description": "New York's two best sluggers are settling into what could be a historic home run race.",
+      "url": "https://bleacherreport.com/articles/10077891-yankees-aaron-judge-vs-mets-pete-alonso-who-will-be-mlbs-2023-home-run-leader",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1685642829/qxslk8e9idlg7dbhcmpr.jpg",
+      "publishedAt": "2023-06-02T11:00:00Z",
+      "content": "Aaron Judge is pushing for home run history again, only this time he has company.Elsa/Getty Images\r\nM&amp;M Boys, meet the A&amp;J Boys.\r\nMaybe the second doesn't roll off the tongue as much as the f… [+5822 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": null,
+      "title": "‘Literal dumpster fire’: Infighting erupts among Texas Republican leaders",
+      "description": "Two Republican-led branches of the Texas government have beef that is exploding out into the open. “Maybe, finally, some accountability is coming for Ken Paxton and Texas Republicans,” says Chris Hayes.",
+      "url": "https://www.msnbc.com/all-in/watch/-literal-dumpster-fire-infighting-erupts-among-texas-republican-leaders-177032773957",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2023_05/1685062176285_n_hayes_texasinfighting_230525_1920x1080-r32dx4.jpg",
+      "publishedAt": "2023-05-26T00:49:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": null,
+      "title": "Meet TIME's Next Generation Leaders",
+      "description": "Check out TIME’s latest list of rising stars who are guiding the way to a brighter future",
+      "url": "http://time.com/collection/next-generation-leaders/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/05/NGL-hero-image-FINAL-v2a.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2023-05-23T12:37:22.7778643Z",
+      "content": "Audience editors: Samantha Cooney, Annabel Gutterman, Soo Jin Kim, Kitty Ruskin, Kari Sonde, Kimberly Tal, and Meg Zukin\r\nCopy editors: Mark Hokoda and Jennifer Schiavone\r\nDesigner: Rich Morgan\r\nDigi… [+423 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Charlie Campbell / Tokyo",
+      "title": "Exclusive: Prime Minister Fumio Kishida Is Turning a Once Pacifist Japan Into a Military Power",
+      "description": "As he welcomes the G7 to Hiroshima, Prime Minister Fumio Kishida says he wants Japan to become a global leader once more.",
+      "url": "http://time.com/6278122/fumio-kishida-japan-prime-minister-interview-g7/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/05/fumio-kishida-1.jpg?quality=85&crop=0px%2C319px%2C3000px%2C1571px&resize=1200%2C628&strip",
+      "publishedAt": "2023-05-10T01:00:44Z",
+      "content": "The official residence of Japan’s Prime Minister is a spooky place. Inspired by American architect Frank Lloyd Wright, the stone and brick mansion in central Tokyo had been around for only three year… [+15826 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Matt Garrick",
+      "title": "A political warrior who walked tall in two worlds — how Yunupingu opened Australia's eyes",
+      "description": "From a land rights \"radical\" to a steely elder who had the ear of successive prime ministers, the late northeast Arnhem Land leader, Yunupingu, leaves a powerful legacy.",
+      "url": "http://www.abc.net.au/news/2023-04-03/yunupingu-gove-nhulunbuy-nt-land-rights-legend-dies/102144072",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7ce091a92ef5f6c933ff186a79e8993a?impolicy=wcms_crop_resize&cropH=257&cropW=456&xPos=5&yPos=32&width=862&height=485",
+      "publishedAt": "2023-04-02T23:11:06Z",
+      "content": "From political boardrooms to the Northern Territory bush, Yunupingu walked tall in two worlds, always with a fire burning deep inside.\r\nNote to Aboriginal and Torres Strait Islander readers: Yunuping… [+9908 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Colin Gleeson",
+      "title": "State will not turn away refugees despite impact on tourism industry – Eamon Ryan",
+      "description": "Green Party leader was responding to assertion by Fáilte Ireland that non-accommodation providers in sector will lose €1.1bn in revenues",
+      "url": "https://www.irishtimes.com/business/2023/03/29/state-will-not-turn-away-refugees-despite-impact-on-tourism-industry-eamon-ryan/",
+      "urlToImage": "https://www.irishtimes.com/resizer/1t7ggcqNe-E4eGQAW1nRumHB3g8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6QZSQVFUVD4LPRELCPEDUEDLSQ.jpg",
+      "publishedAt": "2023-03-29T10:12:25Z",
+      "content": "The State will not turn away refugees or asylum seekers despite the short-term effect on some areas of the tourism industry, Green Party leader Eamon Ryan said on Wednesday.\r\nThe use of tourist accom… [+2392 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Simon Lewis",
+      "title": "Leaders of Germany, France, Italy, Romania in Ukraine to support fight against Russia",
+      "description": "Zelensky expected to push for more arms to withstand the Russian invaders after accusing France, Germany and Italy of foot-dragging",
+      "url": "https://www.theglobeandmail.com/world/article-leaders-of-germany-france-italy-romania-in-ukraine-to-support-fight/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/6iggvDIIPm8nMfFIyizxVooISQk=/1200x801/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/7DA5SGPPCFK5JE7H2QYZYJMDYQ.jpg",
+      "publishedAt": "2022-06-16T10:05:33Z",
+      "content": "French President Emmanuel Macron, left, Italian Prime Minister Mario Draghi, center right, and German Chancellor Olaf Scholz, center, visit Irpin, Ukraine, Thursday, June 16, 2022.LUDOVIC MARIN/AFP/G… [+4074 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jeff Grabow",
+      "title": "The next Silicon Valley may not exist. Here’s what smaller hubs can do to attract VC dollars",
+      "description": "We are seeing some regions begin to reap the benefits of a concerted effort to grow their VC ecosystem, says EY's venture capital leader Jeff Grabow.",
+      "url": "https://fortune.com/2022/05/27/next-silicon-valley-exist-smaller-hubs-attract-vc-dollars-startups-entrepreneurs-ey-jeff-grabow/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-569354399.jpg?resize=1200,600",
+      "publishedAt": "2022-05-27T13:20:00Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Alexander Bolton",
+      "title": "GOP moderates send message on Supreme Court",
+      "description": "By breaking with Senate Minority Leader Mitch McConnell (R-Ky.) over Judge Ketanji Brown Jackson, three Republican moderates sent a clear message that they aren’t happy about how partisan Supreme Court confirmation proceedings have become.   Sens. Lisa Murkow…",
+      "url": "https://thehill.com/news/senate/3260061-gop-moderates-send-message-on-supreme-court/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/romneymitt_collinssusan_murkowskilisa_040522gn_lead.jpg?w=1280",
+      "publishedAt": "2022-04-06T10:00:00Z",
+      "content": "By breaking with Senate Minority Leader Mitch McConnell (R-Ky.) over Judge Ketanji Brown Jackson, three Republican moderates sent a clear message that they arent happy about how partisan Supreme Cour… [+7494 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "Ananth Krishnan",
+      "title": "Xi Jinping visits Tibet border region, first by Chinese leader in years",
+      "description": "He inspects newly opened and strategically important railway line",
+      "url": "https://www.thehindu.com/news/international/xi-jinping-visits-tibet-border-region-first-by-chinese-leader-in-years/article35481755.ece",
+      "urlToImage": "https://www.thehindu.com/news/international/nowz13/article34617350.ece/ALTERNATES/LANDSCAPE_615/ChinaTwitterFakeFans83865jpg-f58f3jpg",
+      "publishedAt": "2021-07-23T03:01:30Z",
+      "content": "Chinas President Xi Jinping this week became the first Chinese leader in many years to visit Tibet as well as its southeastern border region with India, as he inspected a newly opened and strategical… [+3558 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "Paul Blest",
+      "title": "A GOP Lawmaker Tested Positive for Coronavirus and Didn't Bother to Tell His Democratic Colleagues",
+      "description": "\"I never ever, ever knew that the Republican leadership of this state would put so many of us at risk for partisanship to cover up a lie,\" said one Pennsylvania state House member.",
+      "url": "https://www.vice.com/en_us/article/wxq549/a-gop-lawmaker-tested-positive-for-coronavirus-and-didnt-bother-to-tell-his-democratic-colleagues",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfceb8212b2b00955fc2f6/lede/1590678499949-AP_20084652838863.jpeg?crop=1xw:0.8436407766990291xh;center,center&resize=1200:*",
+      "publishedAt": "2020-05-28T15:13:21Z",
+      "content": "Pennsylvania Democrats are furious after a Republican House lawmaker announced hed tested positive for coronavirus over a week ago but didnt tell them.\r\n State representative Andrew Lewis, a 33-year-… [+2944 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": null,
+      "title": "Israel under rockets from Gaza - Live Updates",
+      "description": "The operation against Palestinian Islamic Jihad (PIJ) Leader Bahaa Abu Al-Ata was approved by the IDF chief-of-Staff, Shin Bet, Prime Minister Benjamin Netanyahu and the security cabinet.",
+      "url": "https://www.jpost.com/Breaking-News/Rocket-sirens-sound-near-Gaza-Strip-after-assassination-607581",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448852",
+      "publishedAt": "2019-11-13T11:37:00Z",
+      "content": "Several Israelis have been injured, including an eight-year-old girl who collapsed while running for shelter in Holon. She was evacuated to Wolfson hospital in serious condition.The following is a li… [+4911 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "Anna Ahronheim",
+      "title": "Israel threatens to assassinate Islamic Jihad leader in Damascus - report",
+      "description": "According to a report in the Arabic language al-Hayat newspaper, Israel’s message was delivered to Palestinian Islamic Jihad (PIJ) through United Nations Special Envoy for the Middle East Nickolay Mladenov.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/gaza-news/Israel-threatens-to-assassinate-Islamic-Jihad-leader-in-Damascus-report-607724",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448811",
+      "publishedAt": "2019-11-13T11:11:00Z",
+      "content": "Israel has warned Palestinian Islamic Jihad that the IDF would assassinate the group’s leader Ziad al-Nakhla if the rocket fire continues.\r\nAccording to a report in the Arabic language al-Hayat newsp… [+1568 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "Khaled Abu Toameh",
+      "title": "Hamas’s Islamic Jihad Dilemma - Analysis",
+      "description": "The assassination of Abu al-Ata came as a surprise to PIJ leaders, who rushed to announce that their group was now at war with Israel.",
+      "url": "https://www.jpost.com/Israel-News/Hamass-Islamic-Jihad-Dilemma-Analysis-607636",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448802",
+      "publishedAt": "2019-11-12T18:25:00Z",
+      "content": "The Iranian-backed Palestinian Islamic Jihad (PIJ), whose senior commander Bahaa Abu al-Ata was killed by Israel on Tuesday, has been causing headaches not only for Israel, but also for the Egyptians… [+5834 chars]"
+    }
+  ]
+}
